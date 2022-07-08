@@ -7,11 +7,17 @@ body
 
 #cabecera
 {
-    background: #33A;
-    color: white;
+    background: #addbd9;
+    color: rgb(162, 81, 216);
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
+}
+
+#cabecera #logo
+{
+    width: 20px;
+    vertical-align: middle;
 }
 
 #container
